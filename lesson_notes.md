@@ -10,6 +10,7 @@
   - One-cycle from Leslie Smith; 
     - use_clr_beta clr: https://youtu.be/ondivPiwQho?t=2707; 
     - Paper: A DISCIPLINED APPROACH TO NEURAL NETWORK HYPER-PARAMETERS: PART 1 – LEARNING RATE, BATCH SIZE, MOMENTUM, AND WEIGHT DECAY
-- GAN
+- GAN: https://youtu.be/ondivPiwQho?t=2942
  - Wasserstein GAN paper: https://arxiv.org/abs/1701.07875; recommended **read**
+ - Deconv: https://youtu.be/ondivPiwQho?t=4209; animation: https://youtu.be/ondivPiwQho?t=4607
  
