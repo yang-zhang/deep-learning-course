@@ -14,9 +14,9 @@
  - Wasserstein GAN paper: https://arxiv.org/abs/1701.07875; recommended **read**
  - Deconv: 
   - https://youtu.be/ondivPiwQho?t=4209; 
-  - animation: https://youtu.be/ondivPiwQho?t=4607
-  - upsampling v.s. deconv discussion and checkerboard: 
+  - Animation: https://youtu.be/ondivPiwQho?t=4607
+  - Upsampling v.s. deconv discussion and checkerboard: 
     - https://youtu.be/ondivPiwQho?t=4695
     - https://distill.pub/2016/deconv-checkerboard/
- - 
+ - Examples of usage: https://youtu.be/ondivPiwQho?t=6070
  
