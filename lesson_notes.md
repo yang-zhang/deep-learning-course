@@ -20,3 +20,5 @@
     - https://distill.pub/2016/deconv-checkerboard/
  - Examples of usage: https://youtu.be/ondivPiwQho?t=6070
  
+- Cycle-consistent GAN
+  - Paper: https://arxiv.org/abs/1703.10593
