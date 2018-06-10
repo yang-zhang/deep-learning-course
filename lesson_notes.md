@@ -12,5 +12,8 @@
     - Paper: A DISCIPLINED APPROACH TO NEURAL NETWORK HYPER-PARAMETERS: PART 1 – LEARNING RATE, BATCH SIZE, MOMENTUM, AND WEIGHT DECAY
 - GAN: https://youtu.be/ondivPiwQho?t=2942
  - Wasserstein GAN paper: https://arxiv.org/abs/1701.07875; recommended **read**
- - Deconv: https://youtu.be/ondivPiwQho?t=4209; animation: https://youtu.be/ondivPiwQho?t=4607
+ - Deconv: 
+  - https://youtu.be/ondivPiwQho?t=4209; 
+  - animation: https://youtu.be/ondivPiwQho?t=4607
+  - upsampling v.s. deconv discussion and checkerboard: https://youtu.be/ondivPiwQho?t=4761; https://distill.pub/2016/deconv-checkerboard/
  
