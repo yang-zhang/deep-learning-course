@@ -15,5 +15,8 @@
  - Deconv: 
   - https://youtu.be/ondivPiwQho?t=4209; 
   - animation: https://youtu.be/ondivPiwQho?t=4607
-  - upsampling v.s. deconv discussion and checkerboard: https://youtu.be/ondivPiwQho?t=4761; https://distill.pub/2016/deconv-checkerboard/
+  - upsampling v.s. deconv discussion and checkerboard: 
+    - https://youtu.be/ondivPiwQho?t=4761
+    - https://distill.pub/2016/deconv-checkerboard/
+ - 
  
