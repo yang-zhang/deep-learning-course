@@ -24,5 +24,8 @@
 - Paper: https://arxiv.org/abs/1703.10593
 
 # Lesson 13
-Stochastic weight averaging (swa): https://youtu.be/xXXiC4YRGrQ?t=103
-
+- Stochastic weight averaging (swa): https://youtu.be/xXXiC4YRGrQ?t=103
+- Train phase: 
+  - https://youtu.be/xXXiC4YRGrQ?t=161
+  - https://github.com/fastai/fastai/blob/master/courses/dl2/training_phase.ipynb
+- 
