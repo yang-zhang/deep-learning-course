@@ -29,4 +29,6 @@
 - https://youtu.be/xXXiC4YRGrQ?t=161
 - https://github.com/fastai/fastai/blob/master/courses/dl2/training_phase.ipynb
 - Revisit: why use smaller images first and larger ones later for training and how this API supports it.
-
+# Inception
+  - https://youtu.be/xXXiC4YRGrQ?t=1047
+# Image Enhancement
