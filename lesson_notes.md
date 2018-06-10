@@ -12,7 +12,10 @@
     - use_clr_beta clr: https://youtu.be/ondivPiwQho?t=2707; 
     - Paper: A DISCIPLINED APPROACH TO NEURAL NETWORK HYPER-PARAMETERS: PART 1 – LEARNING RATE, BATCH SIZE, MOMENTUM, AND WEIGHT DECAY
 
-- GAN: https://youtu.be/ondivPiwQho?t=2942
+- GAN: 
+ - https://youtu.be/ondivPiwQho?t=2942
+ - https://github.com/fastai/fastai/blob/master/courses/dl2/wgan.ipynb
+ - Example of tqdm bar update
  - Wasserstein GAN paper: https://arxiv.org/abs/1701.07875; recommended **read**
  - Deconv: 
   - https://youtu.be/ondivPiwQho?t=4209; 
