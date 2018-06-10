@@ -25,7 +25,8 @@
 
 # Lesson 13
 - Stochastic weight averaging (swa): https://youtu.be/xXXiC4YRGrQ?t=103
-- Train phase: 
-  - https://youtu.be/xXXiC4YRGrQ?t=161
-  - https://github.com/fastai/fastai/blob/master/courses/dl2/training_phase.ipynb
-- 
+# Train phase API: 
+- https://youtu.be/xXXiC4YRGrQ?t=161
+- https://github.com/fastai/fastai/blob/master/courses/dl2/training_phase.ipynb
+- Revisit: why use smaller images first and larger ones later for training and how this API supports it.
+
