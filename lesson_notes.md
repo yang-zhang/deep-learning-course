@@ -35,4 +35,5 @@
   - Stem: https://youtu.be/xXXiC4YRGrQ?t=1712
 # Image Enhancement
   - Progressive GAN: https://youtu.be/xXXiC4YRGrQ?t=1885
-  - Pattern: https://youtu.be/xXXiC4YRGrQ?t=3418  
+  - Artistic style: https://youtu.be/xXXiC4YRGrQ?t=3692
+  
