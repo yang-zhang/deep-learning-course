@@ -31,5 +31,5 @@
 - Revisit: why use smaller images first and larger ones later for training and how this API supports it.
 # Inception
   - https://youtu.be/xXXiC4YRGrQ?t=1047
-  - Factored convoluation: instead of A(7x7) conv X do B(7x1) conv C(1x7)@X - same shape, less parameters (7+7=14 instead of 7*7=49)
+  - Factored convoluation: instead of (7x7)conv, do (7x1) then (1x7) convs - same shape, less parameters (7+7=14 instead of 7*7=49)
 # Image Enhancement
