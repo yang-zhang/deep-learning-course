@@ -34,3 +34,5 @@
   - Factored convoluation: instead of (7x7)conv, do (7x1) then (1x7) convs - same shape, less parameters (7+7=14 instead of 7*7=49)
   - Stem: https://youtu.be/xXXiC4YRGrQ?t=1712
 # Image Enhancement
+  - Progressive GAN: https://youtu.be/xXXiC4YRGrQ?t=1885
+  
