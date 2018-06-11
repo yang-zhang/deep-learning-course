@@ -1,3 +1,5 @@
+# Lesson 2
+- Test Time Augmentation (TTA): https://youtu.be/JNxcznsrRb8?t=3669
 # Lesson 12
 ## CIFAR10 Darknet 
 - New arch; fast
