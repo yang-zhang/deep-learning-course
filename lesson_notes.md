@@ -1,12 +1,18 @@
 # Lesson 2
 - Test Time Augmentation (TTA): https://youtu.be/JNxcznsrRb8?t=3669
+
 # Lesson 3
 - bn_freeze = True: In case you are using a deeper network anything greater than resnet34 (like resnext50), bn_freeze = True should be used when you unfreeze and your new dataset is very similar to the original data used in pretrained model (source26) Pytorch is probably the only library which offers this much needed switch. (http://forums.fast.ai/t/30-best-practices/12344)
   - https://youtu.be/9C06ZPF8Uuc?t=1109
+
+# Lesson 7
+- Concat adp max and avg pooling: https://youtu.be/H3g26EVADgY?t=7611
+
 # Lesson 10
 - 1cycle: 
   - https://youtu.be/h5Tz7gZT9Fo?t=6550
   - https://github.com/fastai/fastai/blob/master/courses/dl2/imdb.ipynb
+
 # Lesson 12
 ## CIFAR10 Darknet 
 - New arch; fast
