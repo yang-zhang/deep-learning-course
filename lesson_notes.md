@@ -49,3 +49,5 @@
 # Lesson 14
 # Super resolution
 - Ideas to get label from tranforming images in some way: https://youtu.be/nG3tT31nPmQ?t=366
+- Upsampling: https://youtu.be/nG3tT31nPmQ?t=2110
+
