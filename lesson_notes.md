@@ -5,6 +5,9 @@
 - bn_freeze = True: In case you are using a deeper network anything greater than resnet34 (like resnext50), bn_freeze = True should be used when you unfreeze and your new dataset is very similar to the original data used in pretrained model (source26) Pytorch is probably the only library which offers this much needed switch. (http://forums.fast.ai/t/30-best-practices/12344)
   - https://youtu.be/9C06ZPF8Uuc?t=1109
 
+# Lesson 5
+- Momentum: https://youtu.be/J99NV9Cr75I?t=1h53m45s
+
 # Lesson 7
 - Concat adp max and avg pooling: https://youtu.be/H3g26EVADgY?t=7611
 
