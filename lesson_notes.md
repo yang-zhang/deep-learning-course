@@ -46,3 +46,6 @@
   - Progressive GAN: https://youtu.be/xXXiC4YRGrQ?t=1885
   - Artistic style: https://youtu.be/xXXiC4YRGrQ?t=3692
   
+# Lesson 14
+# Super resolution
+- Ideas to get label from tranforming images in some way: https://youtu.be/nG3tT31nPmQ?t=366
