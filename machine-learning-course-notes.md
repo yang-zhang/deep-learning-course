@@ -7,3 +7,5 @@
 - `.dt` and `.cat` and `.cat.set_categories(ordered=True)`: https://youtu.be/CzdWqFTmn0Y?t=3595
 - make a tmp dir: https://youtu.be/CzdWqFTmn0Y?t=3988
 - `to_feather`: https://youtu.be/CzdWqFTmn0Y?t=3931
+- `proc_df`: https://youtu.be/CzdWqFTmn0Y?t=4087
+
