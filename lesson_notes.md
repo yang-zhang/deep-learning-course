@@ -56,7 +56,7 @@
   - Artistic style: https://youtu.be/xXXiC4YRGrQ?t=3692
   
 # Lesson 14
-# Super resolution
+## Super resolution
 - Ideas to get label from tranforming images in some way: https://youtu.be/nG3tT31nPmQ?t=366
 - Upsampling: https://youtu.be/nG3tT31nPmQ?t=2110
   - Sub-pixel conv net: https://youtu.be/nG3tT31nPmQ?t=2293
@@ -64,3 +64,6 @@
 - Hook: https://youtu.be/nG3tT31nPmQ?t=3217
 - Load model load_state_dict stric=False: https://youtu.be/nG3tT31nPmQ?t=3623
 - Threadpool executor: https://youtu.be/nG3tT31nPmQ?t=5690
+## Image segmentation
+- Lambda layer: https://youtu.be/nG3tT31nPmQ?t=5992
+
