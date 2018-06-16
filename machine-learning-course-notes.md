@@ -4,3 +4,4 @@
 - log error cares about ratio rather than value: https://youtu.be/CzdWqFTmn0Y?t=2107
 - add_datepart: https://youtu.be/CzdWqFTmn0Y?t=3072
 - train_cat/apply_cat: https://youtu.be/CzdWqFTmn0Y?t=3467
+- `.dt` and `.cat` and `.cat.set_categories(ordered=True)`: https://youtu.be/CzdWqFTmn0Y?t=3595
