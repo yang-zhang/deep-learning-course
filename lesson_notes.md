@@ -69,3 +69,4 @@
 - U-net: https://youtu.be/nG3tT31nPmQ?t=6298
 - cut_model: https://youtu.be/nG3tT31nPmQ?t=6669
 - Hook: https://youtu.be/nG3tT31nPmQ?t=6700
+- `m.close()`: https://youtu.be/nG3tT31nPmQ?t=6983
