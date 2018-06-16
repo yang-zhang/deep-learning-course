@@ -16,3 +16,4 @@
 
 # Lesson 2
 - link source code `ln -s`: https://youtu.be/blyXCk4sgEg?t=149
+- pandas categories: https://youtu.be/blyXCk4sgEg?t=529
