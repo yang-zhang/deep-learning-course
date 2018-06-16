@@ -13,3 +13,6 @@
 - including IDs works fine: https://youtu.be/CzdWqFTmn0Y?t=4330
 - RandomForrest `n_jobs=-1`: https://youtu.be/CzdWqFTmn0Y?t=4345
 - `print_score`: https://youtu.be/CzdWqFTmn0Y?t=4483
+
+# Lesson 2
+- link source code: https://youtu.be/blyXCk4sgEg?t=149
