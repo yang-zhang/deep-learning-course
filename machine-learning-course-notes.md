@@ -9,5 +9,6 @@
 - `to_feather`: https://youtu.be/CzdWqFTmn0Y?t=3931
 - `proc_df`: https://youtu.be/CzdWqFTmn0Y?t=4087
 - `fix_missing`: https://youtu.be/CzdWqFTmn0Y?t=4167
+- `df.items()`: https://youtu.be/CzdWqFTmn0Y?t=4246
 
 
