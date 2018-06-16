@@ -3,4 +3,4 @@
 - display_all function for df: https://youtu.be/CzdWqFTmn0Y?t=1929
 - log error cares about ratio rather than value: https://youtu.be/CzdWqFTmn0Y?t=2107
 - add_datepart: https://youtu.be/CzdWqFTmn0Y?t=3072
-- train_cat: https://youtu.be/CzdWqFTmn0Y?t=3467
+- train_cat/apply_cat: https://youtu.be/CzdWqFTmn0Y?t=3467
