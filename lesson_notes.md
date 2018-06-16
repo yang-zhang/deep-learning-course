@@ -70,4 +70,4 @@
 - cut_model: https://youtu.be/nG3tT31nPmQ?t=6669
 - Hook: https://youtu.be/nG3tT31nPmQ?t=6700
 - `m.close()`: https://youtu.be/nG3tT31nPmQ?t=6983
-- U-net bounding box: https://youtu.be/nG3tT31nPmQ?t=7151
+- U-net bounding box (Feature Pyramid Networks for Object Detection): https://youtu.be/nG3tT31nPmQ?t=7151
