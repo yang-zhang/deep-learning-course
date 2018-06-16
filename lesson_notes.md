@@ -63,4 +63,4 @@
 - Parallel/multiple gpus: https://youtu.be/nG3tT31nPmQ?t=2924
 - Hook: https://youtu.be/nG3tT31nPmQ?t=3217
 - Load model load_state_dict stric=False: https://youtu.be/nG3tT31nPmQ?t=3623
-
+- Threadpool executor: https://youtu.be/nG3tT31nPmQ?t=5690
