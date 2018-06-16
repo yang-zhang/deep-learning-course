@@ -20,3 +20,4 @@
 - r-squared explained: https://youtu.be/blyXCk4sgEg?t=758
 - `proc_df(subset=)`: https://youtu.be/blyXCk4sgEg?t=1844
 - RandomForrest `boostrap=False` and `draw_tree`: https://youtu.be/blyXCk4sgEg?t=1935
+- Bagging of little bootstraps: https://youtu.be/blyXCk4sgEg?t=2858
