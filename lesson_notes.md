@@ -61,5 +61,5 @@
 - Upsampling: https://youtu.be/nG3tT31nPmQ?t=2110
   - Sub-pixel conv net: https://youtu.be/nG3tT31nPmQ?t=2293
 - Parallel/multiple gpus: https://youtu.be/nG3tT31nPmQ?t=2924
-  
+- Hook: https://youtu.be/nG3tT31nPmQ?t=3217
 
