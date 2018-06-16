@@ -19,3 +19,4 @@
 - pandas categories: https://youtu.be/blyXCk4sgEg?t=529
 - r-squared explained: https://youtu.be/blyXCk4sgEg?t=758
 - `proc_df(subset=)`: https://youtu.be/blyXCk4sgEg?t=1844
+- RandomForrest `boostrap=False` and `draw_tree`: https://youtu.be/blyXCk4sgEg?t=1935
