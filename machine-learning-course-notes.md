@@ -15,4 +15,4 @@
 - `print_score`: https://youtu.be/CzdWqFTmn0Y?t=4483
 
 # Lesson 2
-- link source code: https://youtu.be/blyXCk4sgEg?t=149
+- link source code `ln -s`: https://youtu.be/blyXCk4sgEg?t=149
