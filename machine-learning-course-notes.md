@@ -18,3 +18,4 @@
 - link source code `ln -s`: https://youtu.be/blyXCk4sgEg?t=149
 - pandas categories: https://youtu.be/blyXCk4sgEg?t=529
 - r-squared explained: https://youtu.be/blyXCk4sgEg?t=758
+- `proc_df(subset=)`: https://youtu.be/blyXCk4sgEg?t=1844
