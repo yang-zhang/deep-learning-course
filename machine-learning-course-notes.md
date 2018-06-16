@@ -10,5 +10,6 @@
 - `proc_df`: https://youtu.be/CzdWqFTmn0Y?t=4087
 - `fix_missing`: https://youtu.be/CzdWqFTmn0Y?t=4167
 - `df.items()`: https://youtu.be/CzdWqFTmn0Y?t=4246
+- including IDs works fine: https://youtu.be/CzdWqFTmn0Y?t=4330
 
 
