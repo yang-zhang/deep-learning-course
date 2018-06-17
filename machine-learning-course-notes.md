@@ -32,6 +32,7 @@
 - Order of categorical variables (not one-hot) doesn't matter: https://youtu.be/blyXCk4sgEg?t=5577
 
 # Lesson 3
+## Kaggle Grocery
 - set `dtype` in `read_csv` for large files : https://youtu.be/YSFG_W8JxBo?t=964
 - SIMD: https://youtu.be/YSFG_W8JxBo?t=1192
 - `shuf` read in a random sample of large csv: https://youtu.be/YSFG_W8JxBo?t=1243
@@ -39,7 +40,7 @@
 - how long RF runs depends on what: https://youtu.be/YSFG_W8JxBo?t=1784
 - `prun`, profiler: https://youtu.be/YSFG_W8JxBo?t=1862
 - validation score v.s. kaggle score correlation - how to check val set is good: https://youtu.be/YSFG_W8JxBo?t=2694
-
+## Interpreting ML models
 
 
 
