@@ -21,3 +21,4 @@
 - `proc_df(subset=)`: https://youtu.be/blyXCk4sgEg?t=1844
 - RandomForrest `boostrap=False` and `draw_tree`: https://youtu.be/blyXCk4sgEg?t=1935
 - Bagging of little bootstraps: https://youtu.be/blyXCk4sgEg?t=2858
+- Less predictive and less correlated trees: https://youtu.be/blyXCk4sgEg?t=3442
