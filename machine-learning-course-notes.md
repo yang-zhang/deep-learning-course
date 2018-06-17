@@ -29,6 +29,6 @@
 - `min_samples_leaf`: https://youtu.be/blyXCk4sgEg?t=4953
 - `max_features`: https://youtu.be/blyXCk4sgEg?t=5054
 - RF never remove variables after each split: https://youtu.be/blyXCk4sgEg?t=5238
-- Order of categorical variables doesn't matter: https://youtu.be/blyXCk4sgEg?t=5577
+- Order of categorical variables (not one-hot) doesn't matter: https://youtu.be/blyXCk4sgEg?t=5577
 
 
