@@ -35,3 +35,4 @@
 - set `dtype` in `read_csv` for large files : https://youtu.be/YSFG_W8JxBo?t=964
 - SIMD: https://youtu.be/YSFG_W8JxBo?t=1192
 - `shuf` read in a random sample of large csv: https://youtu.be/YSFG_W8JxBo?t=1243
+- `describe(include='all')`: https://youtu.be/YSFG_W8JxBo?t=1371
