@@ -25,3 +25,4 @@
 - each tree can predict in RF: https://youtu.be/blyXCk4sgEg?t=3879
 - 20-30 trees, 1000 trees over night: https://youtu.be/blyXCk4sgEg?t=4143
 - RF out of bag validation `oob_score`: https://youtu.be/blyXCk4sgEg?t=4225
+- `set_rf_samples`: https://youtu.be/blyXCk4sgEg?t=4600
