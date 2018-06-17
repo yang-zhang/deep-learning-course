@@ -24,3 +24,4 @@
 - Less predictive and less correlated trees: https://youtu.be/blyXCk4sgEg?t=3442
 - each tree can predict in RF: https://youtu.be/blyXCk4sgEg?t=3879
 - 20-30 trees, 1000 trees over night: https://youtu.be/blyXCk4sgEg?t=4143
+- RF out of bag validation: https://youtu.be/blyXCk4sgEg?t=4225
