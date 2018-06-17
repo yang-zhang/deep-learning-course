@@ -38,3 +38,11 @@
 - `describe(include='all')`: https://youtu.be/YSFG_W8JxBo?t=1371
 - how long RF runs depends on what: https://youtu.be/YSFG_W8JxBo?t=1784
 - `prun`, profiler: https://youtu.be/YSFG_W8JxBo?t=1862
+- validation set: https://youtu.be/YSFG_W8JxBo?t=2694
+
+
+
+
+
+
+
