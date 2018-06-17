@@ -36,3 +36,4 @@
 - SIMD: https://youtu.be/YSFG_W8JxBo?t=1192
 - `shuf` read in a random sample of large csv: https://youtu.be/YSFG_W8JxBo?t=1243
 - `describe(include='all')`: https://youtu.be/YSFG_W8JxBo?t=1371
+- how long RF runs depends on what: https://youtu.be/YSFG_W8JxBo?t=1784
