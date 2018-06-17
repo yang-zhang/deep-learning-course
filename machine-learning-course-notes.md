@@ -31,4 +31,5 @@
 - RF never remove variables after each split: https://youtu.be/blyXCk4sgEg?t=5238
 - Order of categorical variables (not one-hot) doesn't matter: https://youtu.be/blyXCk4sgEg?t=5577
 
-
+# Lesson 3
+- 
