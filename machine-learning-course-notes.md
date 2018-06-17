@@ -27,4 +27,6 @@
 - RF out of bag validation `oob_score`: https://youtu.be/blyXCk4sgEg?t=4225
 - `set_rf_samples`: https://youtu.be/blyXCk4sgEg?t=4600
 - `min_samples_leaf`: https://youtu.be/blyXCk4sgEg?t=4953
+- `max_features`: https://youtu.be/blyXCk4sgEg?t=5054
+
 
