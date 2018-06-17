@@ -32,4 +32,5 @@
 - Order of categorical variables (not one-hot) doesn't matter: https://youtu.be/blyXCk4sgEg?t=5577
 
 # Lesson 3
+- set `dtype` in `read_csv` for large files : https://youtu.be/YSFG_W8JxBo?t=964
 - 
