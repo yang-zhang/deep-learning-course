@@ -48,6 +48,7 @@
   - https://youtu.be/YSFG_W8JxBo?t=3887
 - pandas `groupby(as_index=False)`: https://youtu.be/YSFG_W8JxBo?t=3855
 - feature importance: https://youtu.be/YSFG_W8JxBo?t=4051
+- trust this feature importance better: https://youtu.be/YSFG_W8JxBo?t=4630
 
 
 
