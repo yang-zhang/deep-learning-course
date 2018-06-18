@@ -57,6 +57,8 @@
   - Values for parameters to try: https://youtu.be/0v93qHDqq_g?t=1096
 - Use oob to check overfitting: https://youtu.be/0v93qHDqq_g?t=2029
 - issues with traditional feature importance: https://youtu.be/0v93qHDqq_g?t=2249
-- one-hot: https://youtu.be/0v93qHDqq_g?t=2467
+- one-hot 
+  - https://youtu.be/0v93qHDqq_g?t=2467
+  - for RF, not mendatory
 
 
