@@ -60,5 +60,6 @@
 - one-hot 
   - https://youtu.be/0v93qHDqq_g?t=2467
   - for RF, not mendatory
+  - only one-hot low-cardinality columns: https://youtu.be/0v93qHDqq_g?t=2812
 
 
