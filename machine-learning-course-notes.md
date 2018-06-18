@@ -52,7 +52,8 @@
 - how to get feature importance: https://youtu.be/YSFG_W8JxBo?t=4679
 
 # Lesson 4
-- RF hyperparameters: https://youtu.be/0v93qHDqq_g?t=144
-
+- RF hyperparameters: 
+  - https://youtu.be/0v93qHDqq_g?t=144
+  - Values for parameters to try: https://youtu.be/0v93qHDqq_g?t=1096
 
 
