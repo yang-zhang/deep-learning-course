@@ -44,6 +44,7 @@
 - confidence of prediction - standard deviation of the predictions of trees: https://youtu.be/YSFG_W8JxBo?t=3402
 - `parallel_tree`: https://youtu.be/YSFG_W8JxBo?t=3633
 - pandas plotting: https://youtu.be/YSFG_W8JxBo?t=3768
+- pandas `groupby(as_index=False)`: https://youtu.be/YSFG_W8JxBo?t=3855
 
 
 
