@@ -63,4 +63,4 @@
   - only one-hot low-cardinality columns: https://youtu.be/0v93qHDqq_g?t=2812
 - use dendrogram to further remove redundent variables: https://youtu.be/0v93qHDqq_g?t=3328
 - rank correlation/spearmanr: https://youtu.be/0v93qHDqq_g?t=3600
-
+- partial dependence: https://youtu.be/0v93qHDqq_g?t=4061
