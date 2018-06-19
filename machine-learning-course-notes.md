@@ -64,7 +64,7 @@
 - use dendrogram to further remove redundent variables: https://youtu.be/0v93qHDqq_g?t=3328
 - rank correlation/spearmanr: https://youtu.be/0v93qHDqq_g?t=3600
 - partial dependence: https://youtu.be/0v93qHDqq_g?t=4061
-- ggplot: https://youtu.be/0v93qHDqq_g?t=4201
-- `get_sample`: https://youtu.be/0v93qHDqq_g?t=4302
-- partial dependence plot pdp: https://youtu.be/0v93qHDqq_g?t=4512
-
+  - ggplot: https://youtu.be/0v93qHDqq_g?t=4201
+  - `get_sample`: https://youtu.be/0v93qHDqq_g?t=4302
+  - partial dependence plot pdp: https://youtu.be/0v93qHDqq_g?t=4512
+  - pdp interaction: https://youtu.be/0v93qHDqq_g?t=5270
