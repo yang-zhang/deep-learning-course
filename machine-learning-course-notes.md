@@ -71,3 +71,5 @@
 - tree interpreter: https://youtu.be/0v93qHDqq_g?t=5560
 
 # Lesson 5
+- weigh rows according to how recent they are: https://youtu.be/3jl2h9hSRvc?t=1263
+- what JH does with temporal data and val and test: https://youtu.be/3jl2h9hSRvc?t=1284
