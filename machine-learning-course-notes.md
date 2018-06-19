@@ -68,3 +68,5 @@
   - `get_sample`: https://youtu.be/0v93qHDqq_g?t=4302
   - partial dependence plot pdp: https://youtu.be/0v93qHDqq_g?t=4512
   - pdp interaction: https://youtu.be/0v93qHDqq_g?t=5270
+- tree interpreter: https://youtu.be/0v93qHDqq_g?t=5560
+
