@@ -65,4 +65,4 @@
 - rank correlation/spearmanr: https://youtu.be/0v93qHDqq_g?t=3600
 - partial dependence: https://youtu.be/0v93qHDqq_g?t=4061
 - ggplot: https://youtu.be/0v93qHDqq_g?t=4201
-
+- `get_sample`: https://youtu.be/0v93qHDqq_g?t=4302
