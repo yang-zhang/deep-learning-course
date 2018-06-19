@@ -66,3 +66,5 @@
 - partial dependence: https://youtu.be/0v93qHDqq_g?t=4061
 - ggplot: https://youtu.be/0v93qHDqq_g?t=4201
 - `get_sample`: https://youtu.be/0v93qHDqq_g?t=4302
+- partial dependence plot pdp: https://youtu.be/0v93qHDqq_g?t=4512
+
