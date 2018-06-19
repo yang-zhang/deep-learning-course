@@ -76,4 +76,5 @@
 - how to know if your validation set is good: 
   - https://youtu.be/3jl2h9hSRvc?t=1343
   - example: https://youtu.be/3jl2h9hSRvc?t=1564
-  
+- cross validatoin: https://youtu.be/3jl2h9hSRvc?t=1867
+
