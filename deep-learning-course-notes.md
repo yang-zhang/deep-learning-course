@@ -34,6 +34,7 @@
 - `head_reg4`: https://youtu.be/0frKXR-2PBY?t=888
 - `detn_loss`: https://youtu.be/0frKXR-2PBY?t=1017
 - batch_norm before or after relu - after: https://youtu.be/0frKXR-2PBY?t=1090
+- dropout after/vs batchnorm: https://youtu.be/0frKXR-2PBY?t=1179
 
 ## Multiple Object Detection
 
