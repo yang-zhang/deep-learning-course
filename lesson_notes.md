@@ -13,6 +13,9 @@
 # Lesson 7
 - Concat adp max and avg pooling: https://youtu.be/H3g26EVADgY?t=7611
 
+# Lesson 8
+- `get_lrg` and the 4 coordinates: https://youtu.be/Z0ssNAbe81M?t=5185
+
 # Lesson 9
 
 # Lesson 10
