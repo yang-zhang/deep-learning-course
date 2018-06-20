@@ -33,7 +33,7 @@
 - 2 model data objects and custom `ConcatLblDataset` class: https://youtu.be/0frKXR-2PBY?t=732
 - `head_reg4`: https://youtu.be/0frKXR-2PBY?t=888
 - `detn_loss`: https://youtu.be/0frKXR-2PBY?t=1017
-- batch_norm before or after relu: https://youtu.be/0frKXR-2PBY?t=1090
+- batch_norm before or after relu - after: https://youtu.be/0frKXR-2PBY?t=1090
 
 ## Multiple Object Detection
 
