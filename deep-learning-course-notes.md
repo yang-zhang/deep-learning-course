@@ -18,7 +18,7 @@
 - `crop_type=CropType.NO`: https://youtu.be/Z0ssNAbe81M?t=5465
 - iterating data loader: https://youtu.be/Z0ssNAbe81M?t=5641
 - show image data from data loader: https://youtu.be/Z0ssNAbe81M?t=5739
-- `tfm` code: https://youtu.be/Z0ssNAbe81M?t=5819
+- `tfm` code and `denorm`: https://youtu.be/Z0ssNAbe81M?t=5819
 
 # Lesson 9
 
