@@ -27,6 +27,10 @@
 - `ImageClassifierData.from_csv(continuous=True)`: https://youtu.be/0frKXR-2PBY?t=224
 - augmentation transformation  https://youtu.be/0frKXR-2PBY?t=311
 - augmentation issue with bbox: https://youtu.be/0frKXR-2PBY?t=470
+- `learn.summary()`: https://youtu.be/0frKXR-2PBY?t=593
+
+
+
 
 # Lesson 10
 - 1cycle: 
