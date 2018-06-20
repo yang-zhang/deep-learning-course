@@ -1,4 +1,5 @@
 # Lesson 2
+- differential/discriminative learning rates: https://youtu.be/JNxcznsrRb8?t=2636
 - Test Time Augmentation (TTA): https://youtu.be/JNxcznsrRb8?t=3669
 
 # Lesson 3
