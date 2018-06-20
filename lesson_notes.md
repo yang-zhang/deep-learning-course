@@ -11,6 +11,8 @@
 # Lesson 7
 - Concat adp max and avg pooling: https://youtu.be/H3g26EVADgY?t=7611
 
+# Lesson 9
+
 # Lesson 10
 - 1cycle: 
   - https://youtu.be/h5Tz7gZT9Fo?t=6550
