@@ -31,7 +31,7 @@
 - augmentation issue with bbox: https://youtu.be/0frKXR-2PBY?t=470
 - `learn.summary()`: https://youtu.be/0frKXR-2PBY?t=593
 ## Multiple Object Detection
-- 2 model data objects: https://youtu.be/0frKXR-2PBY?t=732
+- 2 model data objects and custom `ConcatLblDataset` class: https://youtu.be/0frKXR-2PBY?t=732
 
 
 
