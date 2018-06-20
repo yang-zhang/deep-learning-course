@@ -14,6 +14,7 @@
 - Concat adp max and avg pooling: https://youtu.be/H3g26EVADgY?t=7611
 
 # Lesson 8
+## Single Object Detection
 - `get_lrg` and the 4 coordinates: https://youtu.be/Z0ssNAbe81M?t=5185
 - `crop_type=CropType.NO`: https://youtu.be/Z0ssNAbe81M?t=5465
 - iterating data loader: https://youtu.be/Z0ssNAbe81M?t=5641
@@ -23,11 +24,14 @@
 - `custom_head`: https://youtu.be/Z0ssNAbe81M?t=7049
 
 # Lesson 9
+## Single Object Detection
 - how to view model input and output (`eval`): https://youtu.be/0frKXR-2PBY?t=119
 - `ImageClassifierData.from_csv(continuous=True)`: https://youtu.be/0frKXR-2PBY?t=224
 - augmentation transformation  https://youtu.be/0frKXR-2PBY?t=311
 - augmentation issue with bbox: https://youtu.be/0frKXR-2PBY?t=470
 - `learn.summary()`: https://youtu.be/0frKXR-2PBY?t=593
+## Multiple Object Detection
+- 2 model data objects: https://youtu.be/0frKXR-2PBY?t=732
 
 
 
