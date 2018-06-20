@@ -30,10 +30,11 @@
 - augmentation transformation  https://youtu.be/0frKXR-2PBY?t=311
 - augmentation issue with bbox: https://youtu.be/0frKXR-2PBY?t=470
 - `learn.summary()`: https://youtu.be/0frKXR-2PBY?t=593
-## Multiple Object Detection
 - 2 model data objects and custom `ConcatLblDataset` class: https://youtu.be/0frKXR-2PBY?t=732
 - `head_reg4`: https://youtu.be/0frKXR-2PBY?t=888
+- `detn_loss`: https://youtu.be/0frKXR-2PBY?t=1017
 
+## Multiple Object Detection
 
 
 # Lesson 10
