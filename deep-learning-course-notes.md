@@ -25,6 +25,8 @@
 # Lesson 9
 - how to view model input and output (`eval`): https://youtu.be/0frKXR-2PBY?t=119
 - `ImageClassifierData.from_csv(continuous=True)`: https://youtu.be/0frKXR-2PBY?t=224
+- augmentation transformation: https://youtu.be/0frKXR-2PBY?t=311
+
 
 # Lesson 10
 - 1cycle: 
