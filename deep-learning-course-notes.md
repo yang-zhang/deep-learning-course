@@ -19,6 +19,8 @@
 - iterating data loader: https://youtu.be/Z0ssNAbe81M?t=5641
 - show image data from data loader: https://youtu.be/Z0ssNAbe81M?t=5739
 - `tfm` code and `denorm`: https://youtu.be/Z0ssNAbe81M?t=5819
+- debug and `pdb`: https://youtu.be/Z0ssNAbe81M?t=6125
+
 
 # Lesson 9
 
