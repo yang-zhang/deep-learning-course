@@ -23,7 +23,7 @@
 - `custom_head`: https://youtu.be/Z0ssNAbe81M?t=7049
 
 # Lesson 9
-- how to view model input and output: https://youtu.be/0frKXR-2PBY?t=119
+- how to view model input and output (`eval`): https://youtu.be/0frKXR-2PBY?t=119
 
 
 # Lesson 10
