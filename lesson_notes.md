@@ -15,7 +15,7 @@
 
 # Lesson 8
 - `get_lrg` and the 4 coordinates: https://youtu.be/Z0ssNAbe81M?t=5185
-
+- `crop_type`: https://youtu.be/Z0ssNAbe81M?t=5465
 # Lesson 9
 
 # Lesson 10
