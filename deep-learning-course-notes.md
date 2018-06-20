@@ -36,7 +36,7 @@
 - batch_norm before or after relu - after: https://youtu.be/0frKXR-2PBY?t=1090
 - dropout after/vs batchnorm: https://youtu.be/0frKXR-2PBY?t=1179
 - compare bbox loss vs classification loss in size in debugger: https://youtu.be/0frKXR-2PBY?t=1270
-
+- how to create custom metrics: https://youtu.be/0frKXR-2PBY?t=1289
 
 ## Multiple Object Detection
 
