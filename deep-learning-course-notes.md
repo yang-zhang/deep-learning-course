@@ -17,6 +17,8 @@
 - `get_lrg` and the 4 coordinates: https://youtu.be/Z0ssNAbe81M?t=5185
 - `crop_type=CropType.NO`: https://youtu.be/Z0ssNAbe81M?t=5465
 - iterating data loader: https://youtu.be/Z0ssNAbe81M?t=5641
+- show image data from data loader: https://youtu.be/Z0ssNAbe81M?t=5739
+
 # Lesson 9
 
 # Lesson 10
