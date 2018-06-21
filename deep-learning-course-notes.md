@@ -33,6 +33,8 @@
 - Concat adp max and avg pooling: https://youtu.be/H3g26EVADgY?t=7611
 - `nn.Sequential(*children(m)[:-2], ...` example
 - hook example
+-`accuracy(*learn.TTA())`
+
 
 # Lesson 8
 ## Single Object Detection
