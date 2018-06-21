@@ -20,6 +20,8 @@
 - `partial`
 
 # Lesson 5
+- http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson5-movielens.ipynb
+- custom module example: `EmbeddingDot`
 - Momentum: https://youtu.be/J99NV9Cr75I?t=1h53m45s
 
 # Lesson 7
