@@ -34,7 +34,7 @@
 - `nn.Sequential(*children(m)[:-2], ...` example
 - hook example
 -`accuracy(*learn.TTA())`
-
+- `bn_freeze` example
 
 # Lesson 8
 ## Single Object Detection
