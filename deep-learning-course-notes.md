@@ -9,6 +9,15 @@
 - how to determine embedding size of categorical variables: 
   - http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson3-rossman.ipynb 
   - We use the *cardinality* of each variable (that is, its number of unique values) to decide how large to make its *embeddings*. 
+- `md.get_learner`: http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson3-rossman.ipynb
+
+# Lesson 4
+- http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson4-imdb.ipynb
+- `review = !cat {TRN}{trn_files[6]}`: 
+- check how many words are in the dataset: `!find {TRN} -name '*.txt' | xargs cat | wc -w`
+- spacy example
+
+  
 # Lesson 5
 - Momentum: https://youtu.be/J99NV9Cr75I?t=1h53m45s
 
