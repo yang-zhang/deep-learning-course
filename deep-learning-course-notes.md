@@ -29,8 +29,9 @@
 -`.cuda()` example
 
 # Lesson 7
+- http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson7-CAM.ipynb
 - Concat adp max and avg pooling: https://youtu.be/H3g26EVADgY?t=7611
-- `nn.Sequential` example: http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson7-CAM.ipynb
+- `nn.Sequential(*children(m)[:-2], ...` example
 
 # Lesson 8
 ## Single Object Detection
