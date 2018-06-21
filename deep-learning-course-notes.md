@@ -16,8 +16,9 @@
 - `review = !cat {TRN}{trn_files[6]}`: 
 - check how many words are in the dataset: `!find {TRN} -name '*.txt' | xargs cat | wc -w`
 - spacy example
-- data.Field
-  
+- `torchtext.data.Field`
+- `partial`
+
 # Lesson 5
 - Momentum: https://youtu.be/J99NV9Cr75I?t=1h53m45s
 
