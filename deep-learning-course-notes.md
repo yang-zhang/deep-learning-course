@@ -45,6 +45,9 @@
 - 1cycle: 
   - https://youtu.be/h5Tz7gZT9Fo?t=6550
   - https://github.com/fastai/fastai/blob/master/courses/dl2/imdb.ipynb
+- keep jupyter notebook running via vnc: https://youtu.be/h5Tz7gZT9Fo?t=7123
+
+
 
 # Lesson 12
 ## CIFAR10 Darknet 
