@@ -24,6 +24,10 @@
 - custom module example: `EmbeddingDot`
 - Momentum: https://youtu.be/J99NV9Cr75I?t=1h53m45s
 
+# Lesson 6
+- http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson6-rnn.ipynb
+-`.cuda()` example
+
 # Lesson 7
 - Concat adp max and avg pooling: https://youtu.be/H3g26EVADgY?t=7611
 
