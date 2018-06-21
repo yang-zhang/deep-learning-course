@@ -6,7 +6,9 @@
 - bn_freeze = True: In case you are using a deeper network anything greater than resnet34 (like resnext50), bn_freeze = True should be used when you unfreeze and your new dataset is very similar to the original data used in pretrained model (source26) Pytorch is probably the only library which offers this much needed switch. (http://forums.fast.ai/t/30-best-practices/12344)
   - https://youtu.be/9C06ZPF8Uuc?t=1109
 - differential/discriminative learning rates: https://youtu.be/9C06ZPF8Uuc?t=5855  
-
+- how to determine embedding size of categorical variables: 
+  - http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson3-rossman.ipynb 
+  - We use the *cardinality* of each variable (that is, its number of unique values) to decide how large to make its *embeddings*. 
 # Lesson 5
 - Momentum: https://youtu.be/J99NV9Cr75I?t=1h53m45s
 
