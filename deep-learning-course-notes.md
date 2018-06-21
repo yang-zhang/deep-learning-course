@@ -29,12 +29,15 @@
 -`.cuda()` example
 
 # Lesson 7
+## CAM
 - http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson7-CAM.ipynb
-- Concat adp max and avg pooling: https://youtu.be/H3g26EVADgY?t=7611
 - `nn.Sequential(*children(m)[:-2], ...` example
 - hook example
 -`accuracy(*learn.TTA())`
 - `bn_freeze` example
+## CIFAR10
+- Concat adp max and avg pooling: https://youtu.be/H3g26EVADgY?t=7611
+
 
 # Lesson 8
 ## Single Object Detection
