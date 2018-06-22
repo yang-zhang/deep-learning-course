@@ -65,7 +65,7 @@
 - how to create custom metrics: https://youtu.be/0frKXR-2PBY?t=1289
 
 ## Multiple Object Detection
-
+- code example of recursion for method of an object: https://github.com/fastai/fastai/blob/master/fastai/dataloader.py#L63
 
 # Lesson 10
 - 1cycle: 
