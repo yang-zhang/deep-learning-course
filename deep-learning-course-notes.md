@@ -27,6 +27,8 @@
 # Lesson 6
 - http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson6-rnn.ipynb
 - `.cuda()` example
+- different names of anchor boxes: https://youtu.be/0frKXR-2PBY?t=3306
+
 
 # Lesson 7
 ## CAM
