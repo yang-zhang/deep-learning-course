@@ -71,7 +71,8 @@
 - code example of recursion for method of an object: https://github.com/fastai/fastai/blob/master/fastai/dataloader.py#L63
 - model input output example: https://youtu.be/0frKXR-2PBY?t=3196
 - mapping ground truth: https://youtu.be/0frKXR-2PBY?t=3662
-
+- `actn_to_bb` activation to bbox: https://youtu.be/0frKXR-2PBY?t=3862
+- `BCE_Loss` binary classifcation entropy: https://youtu.be/0frKXR-2PBY?t=3962
 
 
 # Lesson 10
