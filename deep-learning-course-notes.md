@@ -70,6 +70,9 @@
 ## Multiple Object Detection
 - code example of recursion for method of an object: https://github.com/fastai/fastai/blob/master/fastai/dataloader.py#L63
 - model input output example: https://youtu.be/0frKXR-2PBY?t=3196
+- mapping ground truth: https://youtu.be/0frKXR-2PBY?t=3662
+
+
 
 # Lesson 10
 - 1cycle: 
