@@ -26,7 +26,7 @@
 
 # Lesson 6
 - http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson6-rnn.ipynb
--`.cuda()` example
+- `.cuda()` example
 
 # Lesson 7
 ## CAM
@@ -66,6 +66,7 @@
 
 ## Multiple Object Detection
 - code example of recursion for method of an object: https://github.com/fastai/fastai/blob/master/fastai/dataloader.py#L63
+- model input output example: https://youtu.be/0frKXR-2PBY?t=3196
 
 # Lesson 10
 - 1cycle: 
