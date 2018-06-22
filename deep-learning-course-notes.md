@@ -50,6 +50,7 @@
 - `tfm` code and `denorm`: https://youtu.be/Z0ssNAbe81M?t=5819
 - debug and `pdb`: https://youtu.be/Z0ssNAbe81M?t=6125
 - `custom_head`: https://youtu.be/Z0ssNAbe81M?t=7049
+- pytorch `max` function: https://youtu.be/0frKXR-2PBY?t=3507
 
 # Lesson 9
 ## Single Object Detection
