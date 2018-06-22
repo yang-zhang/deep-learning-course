@@ -78,7 +78,7 @@
   - example: https://youtu.be/3jl2h9hSRvc?t=1564
 - cross validatoin and why not: https://youtu.be/3jl2h9hSRvc?t=1867
 - waterfall plot: https://youtu.be/3jl2h9hSRvc?t=2506
-- extrapolation: 
+- **extrapolation!**: 
   - https://youtu.be/3jl2h9hSRvc?t=2972
   - predict if a sample is in validation set: https://youtu.be/3jl2h9hSRvc?t=3217
 
