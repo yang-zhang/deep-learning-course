@@ -81,6 +81,6 @@
 - **extrapolation!**: 
   - https://youtu.be/3jl2h9hSRvc?t=2972
   - predict if a sample is in validation set: https://youtu.be/3jl2h9hSRvc?t=3217
+  - about reset random sample v.s. r square: https://youtu.be/3jl2h9hSRvc?t=3690
 - building random forrest: 
-  - https://youtu.be/3jl2h9hSRvc?t=3690
-
+  - https://youtu.be/3jl2h9hSRvc?t=3760
