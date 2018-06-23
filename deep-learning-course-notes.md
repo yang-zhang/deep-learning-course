@@ -74,12 +74,6 @@
 - `actn_to_bb` activation to bbox: https://youtu.be/0frKXR-2PBY?t=3862
 - `BCE_Loss` binary classifcation entropy: https://youtu.be/0frKXR-2PBY?t=3962
 - zero padding: https://youtu.be/0frKXR-2PBY?t=4272
-
-# Lesson 10
-- 1cycle: 
-  - https://youtu.be/h5Tz7gZT9Fo?t=6550
-  - https://github.com/fastai/fastai/blob/master/courses/dl2/imdb.ipynb
-- keep jupyter notebook running via vnc: https://youtu.be/h5Tz7gZT9Fo?t=7123
 - more anchor boxes: 
   - https://youtu.be/0frKXR-2PBY?t=4490
   - code: https://youtu.be/0frKXR-2PBY?t=4644
@@ -88,6 +82,14 @@
 - architecture: https://youtu.be/0frKXR-2PBY?t=5474
 - history: https://youtu.be/0frKXR-2PBY?t=5642
 - focal: https://youtu.be/0frKXR-2PBY?t=6107
+- implementing focal loss: https://youtu.be/0frKXR-2PBY?t=6627
+
+
+# Lesson 10
+- 1cycle: 
+  - https://youtu.be/h5Tz7gZT9Fo?t=6550
+  - https://github.com/fastai/fastai/blob/master/courses/dl2/imdb.ipynb
+- keep jupyter notebook running via vnc: https://youtu.be/h5Tz7gZT9Fo?t=7123
 
 # Lesson 12
 ## CIFAR10 Darknet 
