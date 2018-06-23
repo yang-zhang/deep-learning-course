@@ -67,6 +67,7 @@
 - compare bbox loss vs classification loss in size in debugger: https://youtu.be/0frKXR-2PBY?t=1270
 - how to create custom metrics: https://youtu.be/0frKXR-2PBY?t=1289
 
+
 ## Multiple Object Detection
 - code example of recursion for method of an object: https://github.com/fastai/fastai/blob/master/fastai/dataloader.py#L63
 - model input output example: https://youtu.be/0frKXR-2PBY?t=3196
@@ -83,6 +84,7 @@
 - history: https://youtu.be/0frKXR-2PBY?t=5642
 - focal: https://youtu.be/0frKXR-2PBY?t=6107
 - implementing focal loss: https://youtu.be/0frKXR-2PBY?t=6627
+- non maximum suppression NMS posprocessing: https://youtu.be/0frKXR-2PBY?t=6746
 
 
 # Lesson 10
