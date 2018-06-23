@@ -86,7 +86,7 @@
 - how would yolo's activation work: https://youtu.be/0frKXR-2PBY?t=5069
 - meaning of `k`: https://youtu.be/0frKXR-2PBY?t=5460
 - architecture: https://youtu.be/0frKXR-2PBY?t=5474
-
+- history: https://youtu.be/0frKXR-2PBY?t=5642
 
 # Lesson 12
 ## CIFAR10 Darknet 
