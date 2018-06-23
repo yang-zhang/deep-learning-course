@@ -80,7 +80,7 @@
   - https://youtu.be/h5Tz7gZT9Fo?t=6550
   - https://github.com/fastai/fastai/blob/master/courses/dl2/imdb.ipynb
 - keep jupyter notebook running via vnc: https://youtu.be/h5Tz7gZT9Fo?t=7123
-
+- more anchor boxes: https://youtu.be/0frKXR-2PBY?t=4490
 
 
 # Lesson 12
