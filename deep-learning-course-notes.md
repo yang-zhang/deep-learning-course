@@ -73,7 +73,7 @@
 - mapping ground truth: https://youtu.be/0frKXR-2PBY?t=3662
 - `actn_to_bb` activation to bbox: https://youtu.be/0frKXR-2PBY?t=3862
 - `BCE_Loss` binary classifcation entropy: https://youtu.be/0frKXR-2PBY?t=3962
-
+- zero padding: https://youtu.be/0frKXR-2PBY?t=4272
 
 # Lesson 10
 - 1cycle: 
