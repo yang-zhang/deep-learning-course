@@ -148,3 +148,4 @@
 - Hook: https://youtu.be/nG3tT31nPmQ?t=6700
 - `m.close()`: https://youtu.be/nG3tT31nPmQ?t=6983
 - U-net bounding box (Feature Pyramid Networks for Object Detection): https://youtu.be/nG3tT31nPmQ?t=7151
+- developing oop method with func(self, ...) and pass an object as self: in the nb https://github.com/fastai/fastai/blob/master/courses/ml1/lesson3-rf_foundations.ipynb
