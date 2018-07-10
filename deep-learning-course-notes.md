@@ -94,7 +94,9 @@
 - keep jupyter notebook running via vnc: https://youtu.be/h5Tz7gZT9Fo?t=7123
 
 # Lesson 11
-- devise: https://youtu.be/tY0n9OT5_nA?t=6951
+## devise 
+- https://youtu.be/tY0n9OT5_nA?t=6951
+- nmslib, fastest nearest neighbor: https://youtu.be/tY0n9OT5_nA?t=7905
 
 # Lesson 12
 ## CIFAR10 Darknet 
