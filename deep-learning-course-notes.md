@@ -94,6 +94,7 @@
 # Lesson 10
 - http://forums.fast.ai/t/part-2-lesson-10-wiki/14364
 - imdb: https://youtu.be/h5Tz7gZT9Fo?t=16m40s
+- Run spaCy on multi-cores with `proc_all_mp()`： https://youtu.be/h5Tz7gZT9Fo?t=33m57s
 - 1cycle: 
   - https://youtu.be/h5Tz7gZT9Fo?t=6550
   - https://github.com/fastai/fastai/blob/master/courses/dl2/imdb.ipynb
