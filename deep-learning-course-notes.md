@@ -15,10 +15,13 @@
 - http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson4-imdb.ipynb
 - language model: https://youtu.be/gbceqO8PpBg?t=1h23m30s
 - `review = !cat {TRN}{trn_files[6]}`: 
-- check how many words are in the dataset: `!find {TRN} -name '*.txt' | xargs cat | wc -w`
+- unix check how many words are in the multiple files: 
+  - https://youtu.be/gbceqO8PpBg?t=5956
+  - `!find {TRN} -name '*.txt' | xargs cat | wc -w`
 - spacy example
 - `torchtext.data.Field`
 - `partial`
+
 
 # Lesson 5
 - http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson5-movielens.ipynb
