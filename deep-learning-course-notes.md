@@ -99,7 +99,7 @@
 - dealing with all cap (e.g., OMG): https://youtu.be/h5Tz7gZT9Fo?t=2236
 - handle out of vocabulary words using `'_unk_'` and `defaultdict`: https://youtu.be/h5Tz7gZT9Fo?t=2438
 - tie weights: https://youtu.be/h5Tz7gZT9Fo?t=4763
-
+- less data more dropout: https://youtu.be/h5Tz7gZT9Fo?t=4868
 
 - 1cycle: 
   - https://youtu.be/h5Tz7gZT9Fo?t=6550
