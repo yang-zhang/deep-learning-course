@@ -23,7 +23,7 @@
 - bptt: https://youtu.be/gbceqO8PpBg?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=6472
 - `partial` and special optimizer for nlp: https://youtu.be/gbceqO8PpBg?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=7151
 - AWDLSTM and `reg_fn` and `clip`: https://youtu.be/gbceqO8PpBg?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=7216
-
+- still underfitting, longer cycle length...: https://youtu.be/gbceqO8PpBg?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=7462
 # Lesson 5
 - http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson5-movielens.ipynb
 - custom module example: `EmbeddingDot`
