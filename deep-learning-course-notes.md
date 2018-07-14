@@ -14,13 +14,14 @@
 # Lesson 4
 - http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson4-imdb.ipynb
 - language model: https://youtu.be/gbceqO8PpBg?t=1h23m30s
-- `review = !cat {TRN}{trn_files[6]}`: 
+- `review = !cat {TRN}{trn_files[6]}`
 - unix check how many words are in the multiple files: 
   - https://youtu.be/gbceqO8PpBg?t=5956
   - `!find {TRN} -name '*.txt' | xargs cat | wc -w`
 - spacy example
 - `torchtext.data.Field`
-- `partial`
+- bptt: https://youtu.be/gbceqO8PpBg?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=6472
+- `partial` and special optimizer for nlp: https://youtu.be/gbceqO8PpBg?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=7151
 
 
 # Lesson 5
