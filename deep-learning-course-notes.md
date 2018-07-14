@@ -100,7 +100,7 @@
 - handle out of vocabulary words using `'_unk_'` and `defaultdict`: https://youtu.be/h5Tz7gZT9Fo?t=2438
 - tie weights: https://youtu.be/h5Tz7gZT9Fo?t=4763
 - less data more dropout: https://youtu.be/h5Tz7gZT9Fo?t=4868
-
+- perplex: https://youtu.be/h5Tz7gZT9Fo?t=4937
 - 1cycle: 
   - https://youtu.be/h5Tz7gZT9Fo?t=6550
   - https://github.com/fastai/fastai/blob/master/courses/dl2/imdb.ipynb
