@@ -101,6 +101,7 @@
 - tie weights: https://youtu.be/h5Tz7gZT9Fo?t=4763
 - less data more dropout: https://youtu.be/h5Tz7gZT9Fo?t=4868
 - perplexity is exp(cross_entropy) v.s. accuracy: https://youtu.be/h5Tz7gZT9Fo?t=4937
+- classifier: https://youtu.be/h5Tz7gZT9Fo?t=5554
 - 1cycle: 
   - https://youtu.be/h5Tz7gZT9Fo?t=6550
   - https://github.com/fastai/fastai/blob/master/courses/dl2/imdb.ipynb
