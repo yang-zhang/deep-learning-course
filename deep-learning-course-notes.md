@@ -1,3 +1,6 @@
+# Lesson 1
+- `lr_find`: Note that the optimal learning rate can change as we training the model, so you may want to re-run this function from time to time.
+
 # Lesson 2
 - differential/discriminative learning rates: https://youtu.be/JNxcznsrRb8?t=2636
 - Test Time Augmentation (TTA): https://youtu.be/JNxcznsrRb8?t=3669
