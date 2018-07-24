@@ -4,7 +4,8 @@
 # Lesson 2
 - why pick learning rate smaller than the bottom of `lr_find` curve: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=1164
 - when to run `lr_find` again: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=1407
-- `precompute=True`: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=1551
+- `learn.precompute=True`: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=1551
+- set `learn.precompute=False` to make augmentation work: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=1759
 - differential/discriminative learning rates: https://youtu.be/JNxcznsrRb8?t=2636
 - Test Time Augmentation (TTA): https://youtu.be/JNxcznsrRb8?t=3669
 
