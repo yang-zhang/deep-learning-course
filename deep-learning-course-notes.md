@@ -7,6 +7,7 @@
 - `learn.precompute=True`: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=1551
 - set `learn.precompute=False` to make augmentation work: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=1759
 - `cycle_len=1`; cosine annealing; some local mininums (flat ones) generalize better than others; sgd with restart: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=1826
+- snapshot ensemble idea (not in fastai) and cycle save: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=2387
 - differential/discriminative learning rates: https://youtu.be/JNxcznsrRb8?t=2636
 - Test Time Augmentation (TTA): https://youtu.be/JNxcznsrRb8?t=3669
 
