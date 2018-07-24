@@ -6,7 +6,7 @@
 - when to run `lr_find` again: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=1407
 - `learn.precompute=True`: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=1551
 - set `learn.precompute=False` to make augmentation work: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=1759
-- `cycle_len=1`: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=1826
+- `cycle_len=1` and cosine annealing: https://youtu.be/JNxcznsrRb8?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=1826
 - differential/discriminative learning rates: https://youtu.be/JNxcznsrRb8?t=2636
 - Test Time Augmentation (TTA): https://youtu.be/JNxcznsrRb8?t=3669
 
