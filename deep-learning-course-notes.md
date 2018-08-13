@@ -21,7 +21,9 @@
 - `md.get_learner`: http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson3-rossman.ipynb
 
 # Lesson 4
-- http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson4-imdb.ipynb
+- imdb notebook:
+  - https://youtu.be/gbceqO8PpBg?t=5496
+  - http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson4-imdb.ipynb
 - language model: https://youtu.be/gbceqO8PpBg?t=1h23m30s
   - lang_model-arxiv.ipynb: https://youtu.be/gbceqO8PpBg?t=5172
 - `review = !cat {TRN}{trn_files[6]}`
