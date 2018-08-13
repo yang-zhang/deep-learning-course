@@ -23,6 +23,7 @@
 # Lesson 4
 - http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson4-imdb.ipynb
 - language model: https://youtu.be/gbceqO8PpBg?t=1h23m30s
+  - lang_model-arxiv.ipynb: https://youtu.be/gbceqO8PpBg?t=5172
 - `review = !cat {TRN}{trn_files[6]}`
 - unix check how many words are in the multiple files: 
   - https://youtu.be/gbceqO8PpBg?t=5956
@@ -33,6 +34,7 @@
 - `partial` and special optimizer for nlp: https://youtu.be/gbceqO8PpBg?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=7151
 - AWDLSTM and `reg_fn` and `clip`: https://youtu.be/gbceqO8PpBg?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=7216
 - still underfitting, longer cycle length...: https://youtu.be/gbceqO8PpBg?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=7462
+
 # Lesson 5
 - http://localhost:8887/notebooks/git/fastai/courses/dl1/lesson5-movielens.ipynb
 - custom module example: `EmbeddingDot`
